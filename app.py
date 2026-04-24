@@ -33,7 +33,6 @@ class Expense(db.Model):
 
 #  Create Database
 with app.app_context():
-    db.drop_all()
     db.create_all()
 
 # Register

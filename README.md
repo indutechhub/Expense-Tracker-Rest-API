@@ -6,7 +6,10 @@ This is a REST API built using Flask to manage expenses.
 
 * User authentication (JWT)
 * Add expenses
-* View expenses
+* Get expenses
+* Update expenses
+* Delete expenses
+
 
 # Tech Stack
 
